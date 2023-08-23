@@ -8,9 +8,9 @@ CDev is a preset of tools and work environments specified for IT development. (p
 
 ===
 
-🗂 ```bin/``` - directory of CUtilities' build binaries.
-🗂 ```impl/``` - source code directory.
-💽 ```compile.sh``` - Bash file holding compilation information.
+ - 🗂 ```bin/``` - directory of CUtilities' build binaries.
+ - 🗂 ```impl/``` - source code directory.
+ - 💽 ```compile.sh``` - Bash file holding compilation information.
 
 ===
 
